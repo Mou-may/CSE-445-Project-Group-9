@@ -27,7 +27,7 @@ This project collects social media posts and automatically detects emerging tren
 2. Make sure all required libraries are installed:  
    ```bash
    pip install -r requirements.txt
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -40,7 +40,7 @@ sentence-transformers (SBERT embeddings)
 pandas, numpy (data processing)
 
 matplotlib, seaborn (visualization)
-##Project Structure
+## Project Structure
 social-media-trend-clustering
 ├── support/
       |└── mlTaasks.ipynb               # Main Jupyter Notebook
@@ -56,7 +56,7 @@ social-media-trend-clustering
 - Agglomerative
 - HDBSCAN
 - Gaussian Mixture
-##Metrics & Evaluation
+## Metrics & Evaluation
 
 Silhouette Score: Measures how well each post fits its cluster.
 
