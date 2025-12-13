@@ -1,0 +1,60 @@
+TRENDING TOPIC ANALYSIS REPORT
+============================================================
+Analysis Date: 2025-12-13 02:25:29
+Total Posts Analyzed: 100,000
+Sample Size: 100,000
+
+TOP 10 TRENDING HASHTAGS:
+----------------------------------------
+ 1. #x200b                -   1008 mentions
+ 2. #note                 -    289 mentions
+ 3. #repeat               -    244 mentions
+ 4. #here                 -     45 mentions
+ 5. #whatconstitutesspam  -     16 mentions
+ 6. #metoo                -     14 mentions
+ 7. #general              -     10 mentions
+ 8. #ref                  -     10 mentions
+ 9. #relevancy            -      9 mentions
+10. #title                -      6 mentions
+
+TOP 10 TRENDING ENTITIES/TOPICS:
+----------------------------------------
+ 1. Trump                     -    691 mentions (Politics)
+ 2. Cake                      -    401 mentions (Other)
+ 3. Cake Day                  -    395 mentions (Other)
+ 4. Night                     -    393 mentions (Other)
+ 5. King                      -    386 mentions (Other)
+ 6. Happy                     -    327 mentions (Other)
+ 7. Night King                -    294 mentions (Other)
+ 8. Karma                     -    280 mentions (Other)
+ 9. Trading                   -    278 mentions (Other)
+10. Happy Trading             -    277 mentions (Other)
+
+TOP 10 TRENDING PHRASES:
+----------------------------------------
+ 1. message compose                          -   1749 occurrences
+ 2. performed automatically                  -   1726 occurrences
+ 3. please contact                           -   1703 occurrences
+ 4. automatically please                     -   1682 occurrences
+ 5. subreddit message                        -   1682 occurrences
+ 6. performed automatically please           -   1682 occurrences
+ 7. automatically please contact             -   1682 occurrences
+ 8. subreddit message compose                -   1682 occurrences
+ 9. dank meme                                -   1074 occurrences
+10. night king                               -    604 occurrences
+
+ANALYSIS METRICS:
+----------------------------------------
+Total Posts Analyzed: 100,000
+Posts With Hashtags: 3,577
+Posts With Hashtags Percentage: 3.6%
+Posts With Entities: 54,758
+Posts With Entities Percentage: 54.8%
+Unique Hashtags: 268
+Unique Entities: 21,528
+Hashtag Gini Coefficient: 0.888
+Entity Gini Coefficient: 0.560
+Top 10 Hashtag Share Percentage: 78.3%
+Top 10 Entity Share Percentage: 6.8%
+Hashtags Per 1000 Posts: 2.680
+Entities Per 1000 Posts: 215.280
