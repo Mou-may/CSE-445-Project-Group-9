@@ -1,0 +1,25 @@
+
+# Data manipulation
+pandas==2.1.0
+numpy==1.26.0
+
+# Text processing
+nltk==3.8.1
+spacy==3.6.0
+regex==2025.12.14
+
+# Vectorization & embeddings
+scikit-learn==1.3.0
+sentence-transformers==2.2.2
+tensorflow==2.14.0  # If you plan to use BERT embeddings via TF
+torch==2.2.0        # Required for sentence-transformers
+hdbscan==0.8.41
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.3
+plotly==5.15.0
+wordcloud==1.9.2
+
+# Utility
+tqdm==4.66.1
